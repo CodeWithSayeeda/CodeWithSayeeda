@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CodeWithSayeeda
-- 👀 I’m interested in Data Analytics, Financial Analysis, Python, SQL, Excel, Power BI, and Investment Banking.
+- 👀 I’m interested in Data Analytics, Python, SQL, Excel, Power BI, and Financial Analysis.
 - 🌱 I’m learning Data Science, Python, and Machine Learning.
 - 💞️ I’m looking to collaborate on  Data Analytics projects, financial modeling case studies.
 - 📫 How to reach me
